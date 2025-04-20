@@ -3,7 +3,7 @@ import requests
 import webbrowser
 from tkinter import messagebox
 
-WEBHOOK_URL = "https://discord.com/api/webhooks/1363243010564821123/3e_i_0An96A66nBfGDlyocbm8fVk3symYsKoUx8NseAmqiw08e2HQt2n9yg0Kev4on5c"
+WEBHOOK_URL = "own webhook"
 
 def send_to_discord():
     nameyou = name_entry.get()
